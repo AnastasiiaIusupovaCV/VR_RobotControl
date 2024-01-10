@@ -1,2 +1,2 @@
-# VR_Robot_Control
+# VR_RobotControl
 Управление роботом через VR с помощью Unity
